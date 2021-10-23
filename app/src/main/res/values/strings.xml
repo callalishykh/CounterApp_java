@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CounterApp</string>
+    <string name="increment">+</string>
+    <string name="decrement">-</string>
+    <string name="reset">Reset</string>
+    <string name="counterView">0</string>
+
+</resources>
